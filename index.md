@@ -1,10 +1,10 @@
 ## Welcome to GitHub Pages
 
-[url](https://tyukei.github.io/10DsofCode.github.io/)
-
 You can use the [editor on GitHub](https://github.com/tyukei/10DsofCode.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+[1stday](1st/1st.md)
 
 ### Markdown
 
