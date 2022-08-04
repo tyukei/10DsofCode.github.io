@@ -1,8 +1,21 @@
 # 1st day
-## about RecycleView in kotlin
+- [x] about RecycleView in kotlin
 
-what is RecycleView
+## what is RecycleView
+[https://developer.android.com/guide/topics/ui/layout/recyclerview?hl=ja](https://developer.android.com/guide/topics/ui/layout/recyclerview?hl=ja)
 
+RecycleView is list which can be scrolled.
+
+RecycleView and ScrollView are similar to ListView. however, data size and process speed are  good for RecycleView
+
+#
+1. main layout /xml
+1. one line layout /xml
+1. ViewHolder link data and id for one line /kt
+1. Adapter adjust data and layout /kt
+1. main activity /kt
+
+ 
 
 ## error
 
