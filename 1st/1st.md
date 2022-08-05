@@ -8,7 +8,6 @@ RecycleView is list which can be scrolled.
 
 RecycleView and ScrollView are similar to ListView. however, data size and process speed are  good for RecycleView
 
-#
 1. main layout /xml
 1. one line layout /xml
 1. ViewHolder link data and id for one line /kt
