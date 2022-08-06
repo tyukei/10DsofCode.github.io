@@ -1,0 +1,2 @@
+# 2nd day
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 3 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>Today&#39;s Progress: study about ml of opencv (python)<br>Thoughts: It takes time to use tensorflow. I wanna try pytorch...</p>&mdash; Tyukei (@relay_tyukei) <a href="https://twitter.com/relay_tyukei/status/1555930185387868160?ref_src=twsrc%5Etfw">August 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
